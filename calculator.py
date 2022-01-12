@@ -1,4 +1,4 @@
-firstNumber = 2
-secondNumber = 5.3
-total = firstNumber + secondNumber
-print(total)
+firstNumber = input("Enter the first number: ") # it will wait user input for the first number
+secondNumber = input("Enter the second number: ")  # it will wait user input for the second number
+total = firstNumber + secondNumber # it will summarize
+print(total)  # it will show the result
